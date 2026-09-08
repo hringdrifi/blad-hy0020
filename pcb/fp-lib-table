@@ -1,3 +1,4 @@
 (fp_lib_table
+  (lib (name "anna_b402")(type "KiCad")(uri "${KIPRJMOD}/anna_b402/anna_b402.pretty")(options "")(descr "ANNA-B402 from EasyEDA C6124130"))
   (lib (name "Smidr")(type "KiCad")(uri "${KIPRJMOD}/smidr.pretty")(options "")(descr "Smiðr generated footprints"))
 )

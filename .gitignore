@@ -1,4 +1,5 @@
 # KiCad local state and automatic backups
+/.tmp/
 *-backups/
 *.bak
 *.kicad_prl

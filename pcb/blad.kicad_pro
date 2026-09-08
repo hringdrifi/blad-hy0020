@@ -64,7 +64,7 @@
           "min_island_area": 10.0,
           "min_thickness": 0.2,
           "pad_connection": 1,
-          "remove_islands": 2,
+          "remove_islands": 1,
           "thermal_relief_gap": 0.2,
           "thermal_relief_spoke_width": 0.2
         }
@@ -106,10 +106,6 @@
           ""
         ],
         [
-          "lib_footprint_mismatch|200263125|111521875|86611589-e9af-41d4-8497-5b393aa207c9|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
           "lib_footprint_mismatch|203894531|119062500|fa4a315a-5e34-47fc-8df7-c42bf0e30f04|00000000-0000-0000-0000-000000000000",
           ""
         ],
@@ -147,14 +143,6 @@
         ],
         [
           "npth_inside_courtyard|218521629|113912500|83a65a35-177a-c9a6-19ed-4b997ff5ee3c|685e25d7-a656-4117-b484-0e1310c46fbc",
-          ""
-        ],
-        [
-          "silk_edge_clearance|199471629|112901875|241ce648-3acc-69c8-9f04-67ed19e8c248|df15781c-64f9-4c7a-81b2-00d4e0caf927",
-          ""
-        ],
-        [
-          "silk_over_copper|199471629|112901875|df15781c-64f9-4c7a-81b2-00d4e0caf927|241ce648-3acc-69c8-9f04-67ed19e8c248",
           ""
         ]
       ],
@@ -819,7 +807,7 @@
         "uuid": "d92a227a-b637-3678-3dde-73c505c2d660"
       }
     ],
-    "used_designators": "#PWR1-13,BT1-2,TS1-2,U1,J1,R1-4,S1,C1",
+    "used_designators": "#PWR1-13,#PWR21,BT1-2,TS1-2,U1-2,J1,J3,R1-4,S1,C1,C4-5,X1",
     "variants": []
   },
   "sheets": [
