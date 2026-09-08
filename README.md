@@ -1,6 +1,6 @@
 # Blað
 
-> **Development stopped:** Development of this HY0020-based version has stopped as the project transitions to the MINEW MS88SF2 MCU module. The new version is maintained in [hringdrifi/blad](https://github.com/hringdrifi/blad).
+> **Development stopped:** Development of this HY0020-based version has stopped as the project transitions to the MINEW MS88SF2 module. The new version is maintained in [hringdrifi/blad](https://github.com/hringdrifi/blad).
 
 Blað is a compact wireless keyboard design project by [hringdrifi](https://github.com/hringdrifi).
 
